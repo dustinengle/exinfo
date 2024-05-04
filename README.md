@@ -24,7 +24,7 @@ graph TD;
     B -- Validate and Forward --> A
     style A fill:#070,stroke:#333,stroke-width:2px
     style B fill:#007,stroke:#333,stroke-width:2px
-    style C fill:#fcf,stroke:#333,stroke-width:2px
+    style C fill:#770,stroke:#333,stroke-width:2px
 ```
 
 ### 1.1 Secure Distributed Ledgers
