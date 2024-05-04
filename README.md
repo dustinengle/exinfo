@@ -22,8 +22,8 @@ graph TD;
     G[Multi-Factor Authentication] --> A
     A -->|Propagate Data| B
     B -- Validate and Forward --> A
-    style A fill:#f9f,stroke:#333,stroke-width:2px
-    style B fill:#ccf,stroke:#333,stroke-width:2px
+    style A fill:#070,stroke:#333,stroke-width:2px
+    style B fill:#007,stroke:#333,stroke-width:2px
     style C fill:#fcf,stroke:#333,stroke-width:2px
 ```
 
@@ -215,8 +215,8 @@ graph TD;
     F -->|Forfeiture of Stake| G[Treasury]
     F -->|Monetary Fine| G
     D -->|Rewards Issued| H[Successful Validators]
-    style D fill:#f9f, stroke:#333,stroke-width:2px
-    style B fill:#ccf, stroke:#333, stroke-width:2px
+    style D fill:#070, stroke:#333,stroke-width:2px
+    style B fill:#007, stroke:#333, stroke-width:2px
 ```
 
 The ExInfo network employs a Delegated Proof of Stake (DPoS) model for its consensus protocol, catering to a more democratic and efficient approach suited to the network's needs for high transaction throughput and security.
